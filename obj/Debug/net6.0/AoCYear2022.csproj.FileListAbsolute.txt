@@ -1,0 +1,15 @@
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.csproj.AssemblyReference.cache
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.AssemblyInfoInputs.cache
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.AssemblyInfo.cs
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.csproj.CoreCompileInputs.cache
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/bin/Debug/net6.0/AoCYear2022
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/bin/Debug/net6.0/AoCYear2022.deps.json
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/bin/Debug/net6.0/AoCYear2022.runtimeconfig.json
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/bin/Debug/net6.0/AoCYear2022.dll
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/bin/Debug/net6.0/AoCYear2022.pdb
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.dll
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/refint/AoCYear2022.dll
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.pdb
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/AoCYear2022.genruntimeconfig.cache
+/Users/kloweemalakowsky/RiderProjects/AoCYear2022/AoCYear2022/obj/Debug/net6.0/ref/AoCYear2022.dll
